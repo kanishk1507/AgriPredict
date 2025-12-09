@@ -8,9 +8,7 @@ This project implements an Agricultural Prediction System using Flask, machine l
 
 - **Crop Yield Prediction**: Predicts crop yield based on environmental factors like rainfall, pesticide usage, and temperature using a Random Forest Regressor.
 - **Disease Risk Assessment**: Assesses the risk of crop diseases based on environmental conditions (rainfall, temperature, pesticide usage) using a Random Forest Classifier.
-- **Fertilizer Recommendation**: Provides rule-based recommendations for NPK (Nitrogen, Phosphorus, Potassium) fertilizers tailored to specific crops, rainfall, soil types, and growth stages.
-- **Weather Pattern Analysis**: Analyzes historical weather data and provides future rainfall predictions using a Linear Regression model, along with general weather advice.
-- **Interactive Web Interface**: A user-friendly web application built with Flask for easy interaction with the prediction models.
+
 
 ## Project Structure
 
